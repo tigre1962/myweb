@@ -1,0 +1,10 @@
+{
+  "name": "Myweb",
+  "version": "1.0.0",
+  "description": "Aplicacion web con Vite y Vue de frontend y Flask y Prostgesql de backend",
+  "main": "index.js",
+  "repository": "https://github.com/tigre1962/AppWeb",
+  "author": "Ramon Gallardo",
+  "license": "MIT",
+  "private": true
+}
